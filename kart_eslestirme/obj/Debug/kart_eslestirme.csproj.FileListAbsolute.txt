@@ -1,0 +1,12 @@
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\bin\Debug\kart_eslestirme.exe.config
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\bin\Debug\kart_eslestirme.exe
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\bin\Debug\kart_eslestirme.pdb
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.csprojAssemblyReference.cache
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.Form1.resources
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.giris.resources
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.Properties.Resources.resources
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.csproj.GenerateResource.cache
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.csproj.CoreCompileInputs.cache
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.exe
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.pdb
+C:\Users\kara\Desktop\YGL2.2\kart_eslestirme\kart_eslestirme\obj\Debug\kart_eslestirme.Form2.resources
